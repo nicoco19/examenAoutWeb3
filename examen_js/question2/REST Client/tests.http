@@ -1,3 +1,9 @@
 @baseUrl=http://localhost:3001
 
 ### Complete this file with your own request to tests your API
+
+
+
+
+### ALL books
+GET {{baseUrl}}/books
